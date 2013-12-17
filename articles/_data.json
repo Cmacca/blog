@@ -1,5 +1,14 @@
 {
   "why-you-should-stop-playing-video-games": {
-    "Why You Should Stop Playing Video Games": "Motivation, Performance, and Attitude are all affected"
+	"layout": "_layout",
+	"title":"Why You Should Stop Playing Video Games",
+	"date": "12 dec 2013",
+	"desc": "What impact do video games have on you?"
+  },
+  "hello-my-name-is-colin": {
+	"layout": "_layout",
+	"title":"Why You Should Stop Playing Video Games",
+	"date": "12 dec 2013",
+	"desc": "What impact do video games have on you?"
   }
 }
