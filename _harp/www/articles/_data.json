@@ -1,0 +1,14 @@
+{
+  "why-you-should-stop-playing-video-games": {
+	"layout": "_layout",
+	"title":"Why You Should Stop Playing Video Games",
+	"date": "12 dec 2013",
+	"desc": "What impact do video games have on you?"
+  },
+  "hello-my-name-is-colin": {
+	"layout": "_layout",
+	"title":"Hello! My name is Colin.",
+	"date": "12 dec 2013",
+	"desc": "Meet and greet with me."
+  }
+}
