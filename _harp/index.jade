@@ -1,9 +1,10 @@
-h1 Welcome to Harp
-p This is yours to own. Enjoy.
+p Colin McIllece's blog about life, politics, code, society, education, and (sometimes) random stuff.
 
-ul
-  each article, slug in public.articles._data
-    li
-      a(href="/articles/#{ slug }") #{ article.title }
-      
-      | #{ article.date }
+#bloggie
+	ul
+		each article, slug in public.articles._data
+			li.title
+				a(href="/articles/#{ slug }") #{ article.title }
+				
+				span.date
+					| #{ article.date }
