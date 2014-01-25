@@ -21,7 +21,7 @@ This one is simple: video games are designed to specifically engage you in const
 
 ### ** 5. You're wasting your life. ** ###
 
-Remember that old hashtag from 2012? I believe it went something like #YOLO (You Only Live Once). It was poorly misinterpreted, and somehow ended up being correlated with getting drunk and doing drugs. However, the term #YOLO actually applies in the argument against video games. Simply put: you only have on life, and you're wasting it by watching pixels change colors on a screen. Kind of sad when you think about it. Go out and do something! I personally find real mountain biking much more exciting than the "Extreme Sports" by Microsoft's Kinect.
+Remember that old hashtag from 2013? I believe it went something like #YOLO (You Only Live Once). It was poorly misinterpreted, and somehow ended up being correlated with consuming alcohol and narcotics. However, the term #YOLO actually applies in the argument against video games. Simply put: you only have one life, and you're wasting it by watching pixels change colors on a screen. Kind of sad when you think about it. Go out and do something! I personally find real mountain biking much more exciting than the "Extreme Sports" by Microsoft's Kinect.
 
 ### ** 6. Video games can make you perceive life differently. ** ###
 
@@ -29,4 +29,4 @@ I can recall a time period when I was playing the ipod version of ABC's "The Wal
 
 ### **7. One reason why you should play video games (periodically). ** ###
 
-The entire concept behind the video game is to immerse oneself in an alternate reality in order to escape the perils of one's current reality. Video games are actually quite effective at this task, and they can ease stress levels during play because the player is able to focus on problems other than their own. I would actually recommend finding apps for your phone or games for your console that you may like to play for short periods of time. Doing this allows you to **decompress** after, say, a hard day at work, or a difficult family situation.
+The entire concept behind the video game is to immerse oneself in an alternate reality in order to escape the perils of one's current reality. Video games are actually quite effective at this task, and they can ease stress levels during play because the player is able to focus on problems other than their own. I would actually recommend finding apps for your phone or games for your console that you may like to play for short periods of time. Doing this allows you to **decompress** after, say, a hard day at work or a difficult family situation.

@@ -2,9 +2,8 @@
 // Colin McIllece - http://Cmacca.github.io
 doctype 5
 html
-  head
-    link(rel="stylesheet", href="/main.css")
-  body
-!= partial("_shared/nav")
-#boday
- != yield
+		head
+			link(rel="stylesheet", href="/main.css")
+		body
+		!= partial("_shared/nav")
+		!= yield

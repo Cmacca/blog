@@ -2,13 +2,13 @@
   "stop-playing-video-games": {
 	"layout": "_layout",
 	"title":"Why You Should Stop Playing Video Games",
-	"date": "12 dec 2013",
+	"date": "21 Jan 2014",
 	"desc": "What impact do video games have on you?"
   },
-  "hello-my-name-is-colin": {
+  "initiate-colin": {
 	"layout": "_layout",
-	"title":"Hello! My name is Colin.",
-	"date": "12 dec 2013",
+	"title":"Initiate(Colin)",
+	"date": "19 Jan 2014",
 	"desc": "Meet and greet with me."
   }
 }

@@ -1,10 +1,10 @@
-p Colin McIllece's blog about life, politics, code, society, education, and (sometimes) random stuff.
+p Colin McIllece's blog about life, code, society, education, and (sometimes) random stuff.
 
 #bloggie
 	ul
 		each article, slug in public.articles._data
 			li.title
 				a(href="/articles/#{ slug }") #{ article.title }
-				
+
 				span.date
 					| #{ article.date }
